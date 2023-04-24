@@ -164,10 +164,10 @@
     color: #199cdb;
   }
   .m-t-2 h1 {
-    font-size: 28px;
+    font-size: 20px;
   }
   .t-t-2 h1 {
-    font-size: 28px;
+    font-size: 20px;
   }
   .t-t-3 {
     display: grid;
@@ -356,6 +356,7 @@
     border-right: 1px solid rgb(209, 209, 209);
   }
   .cvcn {
+    text-decoration: none;
     text-transform: uppercase;
     /* background-color: white; */
     padding-top: 15px;

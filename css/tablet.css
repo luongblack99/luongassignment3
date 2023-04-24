@@ -103,7 +103,7 @@
   .ten-2 {
     position: absolute;
     text-align: center;
-    left: 450px;
+    left: 440px;
     top: 360px;
     z-index: 1;
     padding: 2px 16px;
@@ -158,10 +158,10 @@
     color: #199cdb;
   }
   .m-t-2 h1 {
-    font-size: 28px;
+    font-size: 20px;
   }
   .t-t-2 h1 {
-    font-size: 28px;
+    font-size: 20px;
   }
   .t-t-3 {
     display: grid;
@@ -310,7 +310,7 @@
     margin-right: 10px;
     width: 600px;
     position: absolute;
-    bottom: 990px;
+    bottom: 1030px;
     left: 180px;
   }
   .du-an {
@@ -342,6 +342,7 @@
     border-right: 1px solid rgb(209, 209, 209);
   }
   .cvcn {
+    text-decoration: none;
     text-transform: uppercase;
     /* background-color: white; */
     padding-top: 15px;
